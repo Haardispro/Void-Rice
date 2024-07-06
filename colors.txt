@@ -1,4 +1,8 @@
 Colors 
 
-#2A5340
-#ABC2AB
+#2A5340 - Dark Green
+#ABC2AB - Light Green
+#222222 - Background
+#b8b6b6 - Font color
+#FDD805 - Yellow
+#2B9FFF - Blue 
